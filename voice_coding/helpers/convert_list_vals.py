@@ -1,4 +1,4 @@
-import data_types
+import voice_coding.data_types
 
 
 # converts a list of values to proper data types

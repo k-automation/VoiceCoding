@@ -1,11 +1,11 @@
-from helpers.format_var_func_name import format_var_func_name
-from helpers.text2num import text2num
-from helpers.convert_list_vals import convert_list_vals
-from helpers.to_builtin import to_builtin
-from helpers.voice_conversion import voice_conversion
-from helpers.get_method import get_method
-from helpers.get_params import get_params
-from code_class import Code
+from voice_coding.helpers.format_var_func_name import format_var_func_name
+from voice_coding.helpers.text2num import text2num
+from voice_coding.helpers.convert_list_vals import convert_list_vals
+from voice_coding.helpers.to_builtin import to_builtin
+from voice_coding.helpers.voice_conversion import voice_conversion
+from voice_coding.helpers.get_method import get_method
+from voice_coding.helpers.get_params import get_params
+from voice_coding.code_class import Code
 
 
 # checks and returns the data type

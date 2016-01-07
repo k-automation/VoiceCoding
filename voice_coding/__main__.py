@@ -1,6 +1,6 @@
 import speech_recognition as sr
-from eval_command import eval_command
-from code_class import Code
+from voice_coding.eval_command import eval_command
+from voice_coding.code_class import Code
 
 # initialize the mic and the speech recognizer
 r = sr.Recognizer()

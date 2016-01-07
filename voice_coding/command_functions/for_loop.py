@@ -1,6 +1,6 @@
-from data_types import format_value
-from helpers.format_var_func_name import format_var_func_name
-from code_class import Code
+from voice_coding.data_types import format_value
+from voice_coding.helpers.format_var_func_name import format_var_func_name
+from voice_coding.code_class import Code
 
 
 def for_loop(to_parse):

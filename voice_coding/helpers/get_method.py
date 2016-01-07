@@ -1,7 +1,7 @@
-from helpers.to_builtin import to_builtin
-from helpers.voice_conversion import voice_conversion
-from helpers.get_params import get_params
-from helpers.format_var_func_name import format_var_func_name
+from voice_coding.helpers.to_builtin import to_builtin
+from voice_coding.helpers.voice_conversion import voice_conversion
+from voice_coding.helpers.get_params import get_params
+from voice_coding.helpers.format_var_func_name import format_var_func_name
 
 
 # checks and returns a method

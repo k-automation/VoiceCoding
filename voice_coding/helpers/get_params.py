@@ -1,4 +1,4 @@
-from helpers.convert_list_vals import convert_list_vals
+from voice_coding.helpers.convert_list_vals import convert_list_vals
 
 
 # returns the parameters for a function or method
