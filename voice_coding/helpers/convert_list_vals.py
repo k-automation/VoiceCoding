@@ -12,7 +12,7 @@ def convert_list_vals(vals):
     if len(vals) == 0:
             return []
     # formats the values in the list
-    formatted = [data_types.format_value(i) for i in vals]
+    formatted = [voice_coding.data_types.format_value(i) for i in vals]
     # if any of the data types is False, invalid command
     if False in formatted:
         return False
